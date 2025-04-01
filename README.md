@@ -4,7 +4,7 @@
 This project explores the prediction of NBA annual award winners, such as the **Most Valuable Player (MVP)**, **Most Improved Player (MIP)**, **Defensive Player of the Year (DPOY)**, and **All-NBA selections**, using advanced player statistics. By leveraging machine learning models, we analyze key performance metrics to determine which players are most likely to win these prestigious awards.  
 
 ## Data Sources  
-- **Basketball Reference**: Comprehensive player statistics from the 2015-2022 NBA seasons  
+- **Basketball Reference**: Comprehensive player statistics from the 2015-2024 NBA seasons  
 - Advanced metrics: **Shooting percentage, assist percentage, Player Efficiency Rating (PER), Real Plus-Minus (RPM), Value Over Replacement Player (VORP)**  
 - Team performance factors such as **win-loss records**  
 
